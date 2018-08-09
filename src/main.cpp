@@ -21,9 +21,9 @@ void loop() {
     raw = analogRead(AnalogInput);
     V = raw / 1023.0;
     Volts = V * 12.59;
-    Serial.print(raw);
-    Serial.print(":");
-    Serial.println(Volts);    
+    //Serial.print(raw);
+    //Serial.print(":");
+    //Serial.println(Volts);    
   }
 
 }
