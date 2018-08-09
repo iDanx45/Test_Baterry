@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\daniel\\.platformio\\penv\\Scripts;C:\\Users\\daniel\\.platformio\\penv;C:\\Program Files (x86)\\Parallels\\Parallels Tools\\Applications;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\daniel\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\daniel\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Program Files (x86)\\Parallels\\Parallels Tools\\Applications;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\daniel\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\daniel\\AppData\\Local\\Programs\\Python\\Python37-32\\",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
